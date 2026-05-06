@@ -1,2 +1,5 @@
-# new-account-chart
-每月更新A股新开户账户数量
+# 账户新开户数量跟踪
+
+数据来源：中证统计月报 / 上证统计月报整理。
+
+![账户新开户数量月度趋势](figures/new_accounts.png)
